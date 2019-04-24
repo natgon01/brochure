@@ -8354,7 +8354,7 @@ iframe.uk-cover {
  * Default
  */
 .uk-margin {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 * + .uk-margin {
   margin-top: 20px !important;
