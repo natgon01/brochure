@@ -1,10 +1,4 @@
-*{
-    margin-top:0px
-    margin-bottom:-20px;
-  
-  
-  }
-  
+
   
   
   body {
@@ -23,7 +17,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('https://fincaenmanizales.files.wordpress.com/2016/03/tolima-valle-del-magdalena-medio.jpg?w=863&h=1&crop=1')
+    background-image: url('https://fincaenmanizales.files.wordpress.com/2017/04/rio-magdalena-tolima.jpg?w=863&h=1&crop=1')
   
   
   }
@@ -69,8 +63,10 @@
   .bg{
   
     background: #4568DC;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #B06AB3, #4568DC);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #B06AB3, #4568DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(to right, #B06AB3, #4568DC);  /* Chrome 10-25, Safari 5.1-6 */background: #7F7FD5;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   #4568DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   
   background-repeat: no-repeat;
   background-attachment:fixed;

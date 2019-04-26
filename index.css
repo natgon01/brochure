@@ -1,9 +1,16 @@
-.menu{
 
-  background-image: url('https://rv-stuttgart.bund-bawue.de/fileadmin/rvstuttgart/Angebote-Tipps/Kaffee_pexels.jpg');
-}
 
 .si{
 
   background-image: url('https://rv-stuttgart.bund-bawue.de/fileadmin/rvstuttgart/Angebote-Tipps/Kaffee_pexels.jpg');
 }
+
+
+.principal{
+  background-image: url('https://rv-stuttgart.bund-bawue.de/fileadmin/rvstuttgart/Angebote-Tipps/Kaffee_pexels.jpg');
+  
+}
+
+.tarjetas{
+  
+  background-color: black;
