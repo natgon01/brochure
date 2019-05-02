@@ -1,0 +1,128 @@
+a,h1,h2,h3,h4,h5,h6,p{margin:0;padding:0}#global-nav .ext-vm,#hamburger .issue,#hamburger .share-wrapper .share,.contents h3,.index #issue-wrapper .issue .info h2,.initial h1,.story-nav a .title,.subscribe{text-transform:uppercase}.group{zoom:1}.group:after,.group:before{content:"\0020";display:block;height:0;overflow:hidden}
+
+.group:after{clear:both}body,html{height:100%;min-height:100%}
+
+p{color:#3F3F3F;font-family:Georgia,"Times New Roman",Times,serif}
+
+#hamburger .issue,#hamburger .share-wrapper .share,a,h1,h2,h3,h4,h5,h6{font-family:gotham-boldgotham-bold}
+a{text-decoration:none}
+
+h1,h2,h3,h4,h5,h6{font-weight:400}#container{height:100%;width:100%;margin:0 auto}
+.ie8 #container{max-width:1400px}
+
+#container .hide{display:none}
+
+.fixed{position:fixed!important}
+#header{position:relative;z-index:999}
+#hamburger-button{background-image:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/hamburger-open.png);background-repeat:no-repeat;cursor:pointer;height:56px;left:30px;position:fixed;top:30px;width:56px;z-index:99}
+#hamburger{height:100%;left:-301px;position:fixed;top:0;transition:left .4s ease;-moz-transition:left .4s ease;-o-transition:left .4s ease;-webkit-transition:left .4s ease;-ms-transition:left .4s ease;width:300px;z-index:100}
+#hamburger.open{left:0}
+#hamburger .main-logo{background:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/mq-logo.png) no-repeat;display:block;font-size:0;height:50px;line-height:0;margin:90px auto 20px;width:163px}
+#hamburger .issue{color:#F5EBCC;text-align:center}
+#hamburger .title-wrapper{background-color:#292B2B;height:54px;margin:30px 0 0;position:relative}
+#hamburger .title-wrapper .close{background-image:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/hamburger-close.png);background-position:260px center;background-repeat:no-repeat;cursor:pointer;height:100%;width:100%}
+#hamburger .story-logo{background-image:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/issue01-badge-alt.png);background-position:center center;background-repeat:no-repeat;height:200px;width:100%}
+.story-nav a{display:block;margin:40px 0 0 35px}
+.story-nav a .chapter{border:3px solid;border-radius:20px;display:block;float:left;font-size:21px;line-height:29px;padding:3px 0 0;text-align:center;width:32px}
+.story-nav a .title{display:block;float:left;font-size:12px;line-height:16px;padding:5px 0 0 20px;width:110px}
+#hamburger .share-wrapper{bottom:20px;height:60px;left:0;position:absolute;width:100%}
+#hamburger .share-wrapper .share{background-color:#0F1010;border-bottom:10px solid #292B2B;border-top:10px solid #292B2B;cursor:pointer;font-size:16px;height:20px;padding:10px 15px;position:relative;text-align:center;z-index:2}
+#hamburger .share-wrapper .social-wrapper{position:relative;top:-60px;transition:top .4s ease;-moz-transition:top .4s ease;-o-transition:top .4s ease;-webkit-transition:top .4s ease;-ms-transition:top .4s ease}
+#hamburger .share-wrapper .social-wrapper.open{top:-120px}#hamburger .share-wrapper .social-wrapper a{background-repeat:no-repeat;background-position:center center;display:block;float:left;height:60px;text-indent:-9999px;width:33%}
+#hamburger .share-wrapper .social-wrapper .facebook{background-color:#3A5B96;background-image:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/facebook.png)}
+#hamburger .share-wrapper .social-wrapper .twitter{background-color:#09AEEB;background-image:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/twitter.png);width:34%}
+#hamburger .share-wrapper .social-wrapper .gplus{background-color:#DC4A3C;background-image:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/google.png)}
+#global-nav{background:rgba(33,26,16,.8);display:none;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#cc211a10, endColorstr=#cc211a10);height:100%;left:0;position:fixed;text-align:center;top:0;width:100%;z-index:1111}
+#global-nav .close,.initial-arrow,.initial-arrow-small{position:absolute;cursor:pointer}
+#global-nav .close{background:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/hamburger-close.png) no-repeat;height:22px;right:30px;top:30px;width:22px}
+#global-nav .menu-wrapper{margin:120px auto 0;max-width:340px;width:94%}
+#global-nav #visitmaine-logo{background:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/global-visitmaine.png) no-repeat;display:inline-block;height:25px;width:99px}
+#global-nav .break{background:rgba(255,255,255,.3);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4cffffff, endColorstr=#4cffffff);display:block;height:3px;margin:15px 0 25px}
+#global-nav .ext-vm{color:#FFF;display:inline-block;line-height:35px;margin:0 0 15px}
+#global-nav .ext-vm span{display:block;height:35px;vertical-align:top;float:left}
+#global-nav .left{margin:0;width:29px}#global-nav .middle{letter-spacing:2px;padding:0 10px}
+#global-nav .right{margin:0;width:25px}
+#global-nav .ext-vm:hover .left{background:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/global-arrow-left.png) no-repeat}
+#global-nav .ext-vm:hover .middle{background:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/global-arrow-middle.png) repeat-x}#global-nav .ext-vm:hover .right{background:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/global-arrow-right.png) no-repeat}
+#global-nav .ext-social{margin:10px 0 0}
+#global-nav .ext-social a{background:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/global-social.png);display:inline-block;height:37px;margin:0 0 0 10px;width:36px}
+#global-nav .ext-social .fb{margin:0}#global-nav.ext-social .tw{background-position:-36px 0}
+#global-nav .ext-social .gp{background-position:-72px 0}
+#global-maine-icon{background:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/global-maine-icon.png) no-repeat;cursor:pointer;height:39px;width:31px}
+#main{height:100%}
+#landing{background-attachment:fixed;background-position:center center;background-repeat:no-repeat;background-size:cover;-moz-background-size:cover;-o-background-size:cover;-webkit-background-size:cover;-ms-background-size:cover;width:100%}
+.ios #landing{background-attachment:scroll}.initial{width:100%}.initial .spacer{height:30%;width:100%}.initial .bumper{background:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/bumper.png) bottom center no-repeat;background-size:contain;height:50px;margin:0 auto;max-width:667px}.initial h1{color:#FFF;font-size:188px;font-size:15vw;line-height:.8;padding:4% 0 2%;text-align:center}
+.initial .badge{background-position:center center;background-repeat:no-repeat;width:100%}
+.initial-arrow{background:url(https://a1706f7f8644beb6502b-8df8bdf4f96757fe350bd72831985f25.ssl.cf2.rackcdn.com/arrow.png) no-repeat;bottom:6%;height:65px;left:50%;margin:0 0 0 -32px;opacity:1;width:65px;transition:bottom .4s ease;-moz-transition:bottom .4s ease;-o-transition:bottom .4s ease;-webkit-transition:bottom .4s ease;-ms-transition:bottom .4s ease}
+.initial-arrow-small{background:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/arrow-small.png) no-repeat;bottom:50px;height:42px;left:50%;margin:0 0 0 -21px;width:42px}
+.contents .inner .frame,.frame,.page .inner .frame{margin:0 20px}
+.initial-arrow.fade{bottom:-100px}
+.frame{border:10px solid;position:relative;top:20px}
+.frame .inner{left:3%;position:absolute;top:50%;width:94%}.contents{width:100%}
+.contents .inner,.page .inner{background-color:#FFF;padding:0 0 40px;position:relative}.contents .synopsis{margin:60px auto 40px;max-width:610px}
+.contents .synopsis .border{float:left;height:3px;margin:7px 0 0;width:225px}
+.contents h3{float:left;font-size:26px;line-height:.8;padding:0 10px}
+.contents p{font-size:16px;line-height:2.1;margin:0 auto;max-width:940px;padding:0 20px;text-align:center}
+.contents .story-nav{margin:25px auto 60px}.contents .story-nav a{float:left;margin:0 0 0 30px;width:130px}
+.contents .story-nav a:first-child{margin:0}.contents .story-nav a .chapter{border:5px solid;border-radius:30px;float:none;font-size:31px;line-height:43px;margin:0 auto;width:46px}
+.contents .story-nav a .title{float:none;margin:15px 0 0;padding:0 10px;text-align:center}
+.index #main{position:relative}
+.index #brand-wrapper{background:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/promos/brand-image.jpg) no-repeat;background-size:cover;-moz-background-size:cover;-o-background-size:cover;-webkit-background-size:cover;float:left;height:100%;position:relative;width:35.7%}
+.index #brand-wrapper #global-maine-icon{position:absolute;right:35px;top:35px}
+.index #brand-wrapper .text{bottom:140px;color:#FFF;font-style:italic;position:absolute;text-align:center;width:100%}
+.index #brand-wrapper #brand-logo{background:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/mq-logo.png) no-repeat;height:50px;left:50%;margin:-25px 0 0 -81px;position:absolute;text-indent:-9999px;top:50%;width:163px}
+.index #issue-wrapper{height:100%;float:left;overflow-y:auto;position:relative;width:64.3%}
+.index #issue-wrapper #inner-issue{left:2.5%;margin:0 0 5%;position:relative;top:2.5%;width:97.5%}
+.index #issue-wrapper .issue{background-repeat:no-repeat;background-size:cover;-moz-background-size:cover;-o-background-size:cover;-webkit-background-size:cover;display:block;float:left;height:0;margin:2.6%;overflow:hidden;padding-bottom:43.5%;position:relative;width:43.5%}
+.index #issue-wrapper .acadia .hover,.index #issue-wrapper .food .hover,.index #issue-wrapper .issue .info,.index #issue-wrapper .thoreau .hover{left:50%;margin-top:0;top:50%;-ms-transform:translate(-50%,-50%);-moz-transform:translate(-50%,-50%);-webkit-transform:translate(-50%,-50%);-o-transform:translate(-50%,-50%)}
+.index #issue-wrapper .issue .hover{background-color:transparent;background-repeat:no-repeat;background-size:cover;-moz-background-size:cover;-o-background-size:cover;-webkit-background-size:cover;display:block;height:100%;margin:0;position:absolute;transition:all .3s ease;-moz-transition:all .3s ease;-o-transition:all .3s ease;-webkit-transition:all .3s ease;-ms-transition:all .3s ease;width:100%}
+.index #issue-wrapper a.issue .hover:hover{background-color:rgba(96,77,50,.5)}.index #issue-wrapper a.issue.inactive .hover:hover{background-color:transparent}
+.index #issue-wrapper .issue .info{position:absolute;text-align:center;width:100%}.index #issue-wrapper .acadia .hover,.index #issue-wrapper .food .hover,.index #issue-wrapper .thoreau .hover{position:absolute}.index #issue-wrapper .acadia .info img,.index #issue-wrapper .food .info img{width:120px}
+.index #issue-wrapper .issue .info h2{color:#FFF;font-family:FuturaStdBold;font-size:24px;letter-spacing:5px;line-height:1.5;margin:0 0 10px}.index #issue-wrapper .issue.subscribe .info h2{color:#725825;font-size:16px;margin:0}
+.index #issue-wrapper .issue.travel-planner .info h2{font-size:16px;margin:20px 0 10px}.index #issue-wrapper .issue.subscribe .plus,.index #issue-wrapper .issue.travel-planner .plus{color:#fff;display:block;font-family:futurastdbold;font-size:21px;line-height:1;position:absolute;top:35px;right:35px}
+.index #issue-wrapper .issue.subscribe .plus{color:#725825}#cboxCurrent,#cboxTitle{color:#999;bottom:0;position:absolute}
+#cboxOverlay,#cboxWrapper,#colorbox{position:absolute;top:0;left:0;z-index:9999;overflow:hidden}
+#cboxWrapper{max-width:none;background-color:#FFF}
+#cboxOverlay{position:fixed;width:100%;height:100%;background:#000}
+#cboxBottomLeft,#cboxMiddleLeft{clear:left}
+#cboxContent{position:relative}
+#cboxLoadedContent{overflow:auto;-webkit-overflow-scrolling:touch}
+#cboxTitle{margin:0;left:0;text-align:center;width:100%}
+#cboxLoadingGraphic,#cboxLoadingOverlay{position:absolute;top:0;left:0;width:100%;height:100%}
+.cboxPhoto{float:left;margin:auto;border:0;display:block;max-width:none;-ms-interpolation-mode:bicubic}
+.cboxIframe{width:100%;height:100%;display:block;border:0}
+#cboxContent,#cboxLoadedContent,#colorbox{box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box}
+#colorbox{outline:0}#cboxContent,.cboxIframe{background:#fff}#cboxError{padding:50px;border:1px solid #ccc}
+#cboxCurrent{left:100px;display:none}
+#cboxClose,#cboxNext,#cboxPrevious,#cboxSlideshow{cursor:pointer;border:0;padding:0;margin:0;overflow:visible;width:auto;background:0 0}
+#cboxClose:active,#cboxNext:active,#cboxPrevious:active,#cboxSlideshow:active{outline:0}
+#cboxSlideshow{position:absolute;bottom:0;right:42px;color:#444}
+#cboxPrevious{position:absolute;bottom:0;left:0;color:#444}
+#cboxNext{position:absolute;bottom:0;right:0;color:#444}
+#cboxClose{background:url(https://88ca00dd01927059971e-e531c9427630a1629b4800cb942e63c0.ssl.cf2.rackcdn.com/video-close.png) center center no-repeat #FFF;border-radius:27px;color:#444;display:block;height:46px;position:absolute;right:0;text-indent:-9999px;top:0;width:46px}
+.cboxIE #cboxBottomCenter,.cboxIE #cboxBottomLeft,.cboxIE #cboxBottomRight,.cboxIE #cboxMiddleLeft,.cboxIE #cboxMiddleRight,.cboxIE #cboxTopCenter,.cboxIE #cboxTopLeft,.cboxIE #cboxTopRight{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF, endColorstr=#00FFFFFF)}
+@media screen and (max-width:1366px){.signup-wrapper .right p{margin:5% auto}.signup-wrapper .right form input{margin:0 0 4%}}
+@media screen and (max-width:1024px){.index #most-recent{height:100%;margin-top:60px;position:relative}
+.index #most-recent .block{height:25%;width:100%}
+.index #most-recent h2{bottom:50%;margin-bottom:-32px!important}
+.signup-wrapper .right p{padding:0 15%;width:70%}}
+@media screen and (max-width:768px){.index #issue-wrapper .issue{margin:2.6%;padding-bottom:66.4%;width:92.8%}
+.index #issue-wrapper .issue .hover{padding-bottom:0}.index #issue-wrapper .issue .info{margin-top:0}
+.index #issue-wrapper .issue.subscribe{border-bottom:8px solid #725726}.signup-wrapper .left{display:none}
+.signup-wrapper .right{width:100%}}
+@media screen and (max-width:640px){.index #issue-wrapper .acadia .info h2,.index #issue-wrapper .food .info h2,.index #issue-wrapper .thoreau .info h2{margin:0 auto;max-width:270px}
+#hamburger .share-wrapper,#hamburger .story-logo,.index #header .maine{display:none}
+#hamburger .title-wrapper h1{font-size:16px}#hamburger .story-nav a{margin:15px 0 0 40px}
+#hamburger .story-nav a .title{padding:8px 0 0 20px}}
+@media screen and (max-width:400px){.index #issue-wrapper .issue .info img{display:none}}
+@media screen and (max-width:480px){#global-nav .menu-wrapper{margin:60px auto 0}#global-nav .ext-vm{margin:0 0 5px}
+.index #brand-wrapper{height:70%;width:100%}.index #brand-wrapper #global-maine-icon{right:15px;top:15px}
+.index #brand-wrapper .text{display:none}.index #issue-wrapper{overflow-y:inherit;width:100%}}
+@media screen and (max-width:720px){.contents .story-nav,.contents h3{text-align:center}
+.contents h3{float:none}.contents .synopsis .border{display:none}
+.contents .story-nav a{display:inline-block;float:none;margin:0 15px 20px!important}}
+@media screen and (max-height:900px){#hamburger .main-logo{margin-top:20px}
+#hamburger .back-home,#hamburger .story-nav a,#hamburger .subscribe{margin-top:16px!important}
+#hamburger .story-nav{border-bottom:3px solid #292B2B;padding-bottom:16px}#hamburger .story-nav a .title{padding-top:0}
+#hamburger .back-home{position:static!important}
+#hamburger .subscribe{position:static}}.subscribe{position:absolute;bottom:50px;left:50%;transform:translateX(-50%);background:#fff;color:#705a21;border:4px solid #705a21;border-right-width:5px;padding:20px 35px;font-size:14px;letter-spacing:5px;font-family:FuturaStdBold;outline:0}
