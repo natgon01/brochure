@@ -1,7 +1,7 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["eje cafetero"];
+const textArray = ["What your'e about to see is Colombian magic, so take seat and enjoy"];
 const typingSpeed = 200;
 const erasingSpeed = 100;
 const newTextDelay = 500; // Delay between current and next text
