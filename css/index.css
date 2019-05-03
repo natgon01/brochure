@@ -1,0 +1,125 @@
+.cartas{
+   
+    margin-bottom: 0%;
+    margin-top: 0%;
+    margin-right: center;
+    margin-left: 15%;
+   
+  }
+
+*{
+  margin-top:0px
+  margin-bottom:-20px;
+
+
+}
+
+.gente{
+  background: #603813;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #b29f94, #603813);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #b29f94, #603813); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+  
+    width: 100%;
+    height: 100vh;
+    
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment:fixed;
+    text-align: center;
+    margin-top: -50px;
+  
+}
+.bg{
+
+ width: 100%;
+ height: 100%;
+
+background-repeat: no-repeat;
+background-attachment:fixed;
+
+background-image: url('../img/depositphotos_94165412-stock-photo-coffee-beans-on-wooden-background.jpg')
+
+
+}
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #000;
+  color: #eee;
+  width: 100%;
+  font-family: 'lato';
+
+}
+
+.body2 {
+    background-image: url('../img/eje-1.jpg') ;
+    opacity: 0.9;
+    height: 2em;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    transition: .5s;
+    width: 100%;
+    height: 100vh;
+
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+
+ 
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container p {
+  font-size: 3rem;
+  padding: 0.5rem;
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+  text-align: center;
+  overflow: hidden;
+  width: 100%;
+  font-family: 'lato';
+  color: white;
+  
+}
+.container p span.typed-text {
+  font-weight: normal;
+  color: #b8791b;
+}
+.container p span.cursor {
+  display: inline-block;
+  background-color: #fff;
+  margin-left: 0.1rem;
+  width: 3px;
+  animation: blink 1s infinite;
+}
+.container p span.cursor.typing {
+  animation: none;
+}
+
+
+
+@keyframes blink {
+  0%  { background-color: #ccc; }
+  49% { background-color: #ccc; }
+  50% { background-color: transparent; }
+  99% { background-color: transparent; }
+  100%  { background-color: #ccc; }
+}
+
