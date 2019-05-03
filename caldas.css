@@ -1,8 +1,7 @@
 
-
-
-
 body {
+  margin: 0;
+  padding: 0;
   width: 100%;
   font-family: 'lato';
 }
@@ -27,7 +26,7 @@ body {
 .center{
   width: 100%;
   height: 100vh;
-  background-image:url('http://redpithemes.com/Documentation/assets/img/page_bg/page_bg_blur01.jpg')
+
   background-size:cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -72,3 +71,6 @@ background-attachment:fixed;
 
 
 }
+
+
+
