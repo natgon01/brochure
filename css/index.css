@@ -42,8 +42,12 @@
 
 background-repeat: no-repeat;
 background-attachment:fixed;
+background: #603813;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #b29f94, #603813);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #b29f94, #603813); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
 
-background-image: url('../img/depositphotos_94165412-stock-photo-coffee-beans-on-wooden-background.jpg')
+
 
 
 }
@@ -64,7 +68,7 @@ body {
 }
 
 .body2 {
-    background-image: url('../img/eje-1.jpg') ;
+    background-image: url('../img/coffee wallaper.jpg') ;
     opacity: 0.9;
     height: 2em;
     background-position: center;
@@ -100,7 +104,7 @@ body {
 }
 .container p span.typed-text {
   font-weight: normal;
-  color: #b8791b;
+  color:white;
 }
 .container p span.cursor {
   display: inline-block;

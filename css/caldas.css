@@ -17,7 +17,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('https://www.barcelo.com/pinandtravel/wp-content/uploads/2017/09/dia-del-cafe-eje-2.jpg')
+  background-image: url(' https://www.barcelo.com/pinandtravel/wp-content/uploads/2017/09/dia-del-cafe-eje-2.jpg')
+
 
 
 }
@@ -73,7 +74,3 @@ background-attachment:fixed;
 }
 
 
-<<<<<<< HEAD:caldas.css
-
-=======
->>>>>>> 499392e65787d723cabc208efa9504accf668749:css/caldas.css
