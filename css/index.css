@@ -1,56 +1,11 @@
-.cartas{
-   
-    margin-bottom: 0%;
-    margin-top: 0%;
-    margin-right: center;
-    margin-left: 15%;
-   
-  }
 
 *{
-  margin-top:0px
+  margin-top:0px;
   margin-bottom:-20px;
 
 
 }
 
-.gente{
-  background: #603813;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #b29f94, #603813);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #b29f94, #603813); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  
-  
-    width: 100%;
-    height: 100vh;
-    
-    background-position: center;
-    background-size:cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    background-attachment:fixed;
-    text-align: center;
-    margin-top: -50px;
-  
-}
-.bg{
-
- width: 100%;
- height: 100%;
-
-background-repeat: no-repeat;
-background-attachment:fixed;
-background: #603813;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #b29f94, #603813);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #b29f94, #603813); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  
-
-
-
-
-}
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
@@ -68,7 +23,7 @@ body {
 }
 
 .body2 {
-    background-image: url('../img/coffee wallaper.jpg') ;
+    background-image: url('../img/opacity.jpeg') ;
     opacity: 0.9;
     height: 2em;
     background-position: center;
@@ -90,6 +45,7 @@ body {
   justify-content: center;
   align-items: center;
   font-family: 'Cutive Mono', monospace;
+
 }
 .container p {
   font-size: 3rem;
