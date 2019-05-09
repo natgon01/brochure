@@ -84,3 +84,16 @@ body {
   100%  { background-color: #ccc; }
 }
 
+h1{
+ font-family:lobster;
+  text-align: center;
+
+}
+
+.promoting{
+
+  text-align: justify;
+  font-size:35px;
+  font-family:'Courier New', Courier, monospace;
+  background-image: url('../img/opacity.jpeg') ;
+}
