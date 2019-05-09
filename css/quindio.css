@@ -15,7 +15,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('file:///D:/Users/USER/Desktop/Eje_cafetero/Brochure/img/quindio/quindio.jpg');
+    background-image: url('https://www.hvitserk.no/assets/image-cache/images/turer/Colombia/istock-613660294.f763051d.jpg');
   
   
   }
@@ -24,7 +24,6 @@
   .center{
     width: 100%;
     height: 100vh;
-    background-image:url('http://redpithemes.com/Documentation/assets/img/page_bg/page_bg_blur01.jpg');
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -42,7 +41,7 @@
     .nose {
       width: 100%;
       height: 100vh;
-      background-color:#603813;
+   
       background-position: center;
       background-size:cover;
       background-repeat: no-repeat;
@@ -70,11 +69,7 @@
   
   }
   
-.traditions{
 
-
-  background-color:#603813; 
-}
 
 
 .vestimenta{
