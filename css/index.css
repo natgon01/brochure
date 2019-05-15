@@ -1,7 +1,7 @@
 
 *{
   margin-top:0px;
-  margin-bottom:-20px;
+  margin-bottom:0px;
 
 
 }
@@ -9,11 +9,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 body {
   background-color: #000;
   color: #eee;
@@ -45,6 +41,10 @@ body {
   justify-content: center;
   align-items: center;
   font-family: 'Cutive Mono', monospace;
+   background-repeat: no-repeat;
+  background-size: cover;
+
+  
 
 }
 .container p {
@@ -96,4 +96,7 @@ h1{
   font-size:35px;
   font-family:'Courier New', Courier, monospace;
   background-image: url('../img/opacity.jpeg') ;
+  background-size: cover;
+  background-repeat:no-repeat;
+ 
 }
